@@ -1,0 +1,44 @@
+.centertext
+{
+  text-align: center;
+  margin-top: 10px;
+}
+
+.sidemargin
+{
+  margin-left: 15px;
+}
+
+#alertenterinfo
+{
+
+}
+
+footer
+{
+    position:fixed;bottom:0;
+
+    width:100%;
+    display:block;
+}
+
+#stayloggedin
+{
+  width: 300px;
+  margin-left: 18px;
+}
+
+.redbackground
+{
+  background-color: red;
+}
+
+.testsitered
+{
+  color: red;
+}
+
+#testlogin
+{
+  text-decoration: underline;
+}
